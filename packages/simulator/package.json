@@ -1,6 +1,6 @@
 {
   "name": "simulator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Invesment simulator",
   "main": "index.js",
   "repository": {
@@ -8,5 +8,8 @@
     "url": "https://github.com/joserobleda/react-components/tree/master/packages/simulator"
   },
   "author": "@joserobleda",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "simulator-simple": "0.0.1"
+  }
 }
