@@ -1,6 +1,6 @@
 {
   "name": "simulator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Invesment simulator",
   "main": "index.js",
   "repository": {
@@ -10,7 +10,7 @@
   "author": "@joserobleda",
   "license": "ISC",
   "dependencies": {
-    "simulator-advanced": "0.0.1",
-    "simulator-simple": "0.0.1"
+    "simulator-advanced": "^0.0.2",
+    "simulator-simple": "^0.0.2"
   }
 }

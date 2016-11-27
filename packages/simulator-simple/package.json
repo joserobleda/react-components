@@ -1,6 +1,6 @@
 {
   "name": "simulator-simple",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Investment simulator (simple version)",
   "main": "index.js",
   "repository": {
