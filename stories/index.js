@@ -3,6 +3,9 @@ import { storiesOf, action, linkTo } from '@kadira/storybook';
 import Simulator from '../packages/simulator';
 
 storiesOf('Simulator', module)
-  .add('normal', () => (
-    <Simulator />
+  .add('simple', () => (
+    <Simulator type="simple" />
+  ))
+  .add('advanced', () => (
+    <Simulator type="advanced" />
   ));
