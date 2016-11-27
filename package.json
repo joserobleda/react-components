@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "lerna": "2.0.0-beta.23",
+    "@kadira/storybook": "^2.21.0"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "scripts": {
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  }
+}
